@@ -1,0 +1,449 @@
+Using pre-set license
+Built from '2021.1/staging' branch; Version is '2021.1.7f1 (d91830b65d9b) revision 14227504'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Education N; OS build 22621.1848; Version 2009; 64bit' Language: 'en' Physical Memory: 16122 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2021.1.7f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/Hubert/Dungeon Procedural Generation
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+55437
+Successfully changed project path to: C:/Users/Hubert/Dungeon Procedural Generation
+C:/Users/Hubert/Dungeon Procedural Generation
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 82.97 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.1.7f1 (d91830b65d9b)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.1.7f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Hubert/Dungeon Procedural Generation/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 2060 (ID=0x1f08)
+    Vendor:   NVIDIA
+    VRAM:     5968 MB
+    Driver:   31.0.15.3168
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.1.7f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.1.7f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56788
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.1.7f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001401 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 85.51 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.089 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.002334 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Hubert\Dungeon Procedural Generation\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Hubert\Dungeon Procedural Generation\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 83.94 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.072 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Refreshing native plugins compatible for Editor in 0.57 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3384 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 128.2 MB.
+System memory in use after: 128.3 MB.
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 3838.
+Total: 2.403900 ms (FindLiveObjects: 0.250400 ms CreateObjectMapping: 0.145300 ms MarkObjects: 1.900200 ms  DeleteObjects: 0.106900 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/_Scripts/WallTypesHelper.cs
+  artifactKey: Guid(a50e2b8c70d59ca4fae614742c3f2ca2) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/_Scripts/WallTypesHelper.cs using Guid(a50e2b8c70d59ca4fae614742c3f2ca2) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'a7951d2a99331a0c43825101e1fa33fd') in 0.086839 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000259 seconds.
+  path: Assets/Tiles/Tiles/Floor/dungeon_floor_2.asset
+  artifactKey: Guid(8f5ad743d062cc845a64ccb26e8e4801) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Tiles/Tiles/Floor/dungeon_floor_2.asset using Guid(8f5ad743d062cc845a64ccb26e8e4801) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '1710f958ceb2e37e648f5995ea25b17b') in 0.013752 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000292 seconds.
+  path: Assets/Tiles/Tiles/Floor/dungeon_floor_10.asset
+  artifactKey: Guid(7dc82f0105225f348b365e26fc438cb4) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Tiles/Tiles/Floor/dungeon_floor_10.asset using Guid(7dc82f0105225f348b365e26fc438cb4) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '67a6533dcbfe10ac40e53ae3aee05a64') in 0.011266 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Assets/Tiles/Tiles/Objects/dungeon_door_up_left.asset
+  artifactKey: Guid(b5df1f223f2590e4d9a659dad26d2c76) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Tiles/Tiles/Objects/dungeon_door_up_left.asset using Guid(b5df1f223f2590e4d9a659dad26d2c76) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '3b79f52bcbde39f9f87e19b7b5c8324e') in 0.010475 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000281 seconds.
+  path: Assets/_Scripts/WallGenerator.cs
+  artifactKey: Guid(68a2b6a1907e6744ba2be60e353b39a3) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/_Scripts/WallGenerator.cs using Guid(68a2b6a1907e6744ba2be60e353b39a3) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'f21bb49b0df6eb4074ee0a4c2491fece') in 0.009747 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000263 seconds.
+  path: Assets/_Sprites/Dungeon/character and tileset/Dungeon_Tileset.png.pyxel
+  artifactKey: Guid(c55906eb0c4041d47ad5e66454272e88) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/_Sprites/Dungeon/character and tileset/Dungeon_Tileset.png.pyxel using Guid(c55906eb0c4041d47ad5e66454272e88) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'f7ee00b685cd11d98a3a9c801d6255d9') in 0.010401 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/Tiles/Tiles/Objects/dungeon_door_down_right.asset
+  artifactKey: Guid(c464e35b4047a27449998d078b7d425a) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Tiles/Tiles/Objects/dungeon_door_down_right.asset using Guid(c464e35b4047a27449998d078b7d425a) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '1ddbdbc9bdd1e0af4280ebafaec7b05a') in 0.010255 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000299 seconds.
+  path: Assets/_Scripts/ProceduralGenerationAlgorithms.cs
+  artifactKey: Guid(85973277da57c0e45b333852166a8c70) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/_Scripts/ProceduralGenerationAlgorithms.cs using Guid(85973277da57c0e45b333852166a8c70) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '8eb05851ee9f65c72db6ca74f05d1abe') in 0.010167 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000283 seconds.
+  path: Assets/_Scripts/AbstractDungeonGenerator.cs
+  artifactKey: Guid(9fa517002175695449584990bc55f95c) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/_Scripts/AbstractDungeonGenerator.cs using Guid(9fa517002175695449584990bc55f95c) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '043c904b9fae0a85aeeb661588673809') in 0.010107 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000291 seconds.
+  path: Assets/Tiles/Tiles/Wall/wall_diagonal_corner_down_left.asset
+  artifactKey: Guid(f0876383a0a9e9f4a8f543d8515e12c0) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Tiles/Tiles/Wall/wall_diagonal_corner_down_left.asset using Guid(f0876383a0a9e9f4a8f543d8515e12c0) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '72bfb9ec47df1e948771831433761311') in 0.010480 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000290 seconds.
+  path: Assets/Tiles/Tiles/Wall/wall_top_4.asset
+  artifactKey: Guid(362125959bdc5af4788ab92c07961874) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Tiles/Tiles/Wall/wall_top_4.asset using Guid(362125959bdc5af4788ab92c07961874) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '423f0a621554b4de9d4d14c6445fc925') in 0.009191 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000293 seconds.
+  path: Assets/Tiles/Tiles/Floor/dungeon_floor_9.asset
+  artifactKey: Guid(7c7b7ac2946e06842a4deb65e26be2f5) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Tiles/Tiles/Floor/dungeon_floor_9.asset using Guid(7c7b7ac2946e06842a4deb65e26be2f5) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'f63fc6eb142aad4628ba130dfb6f7d22') in 0.011021 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000291 seconds.
+  path: Assets/Tiles/Tiles/Floor/dungeon_floor_3.asset
+  artifactKey: Guid(26e98a0b4f62b314896ddac41dcc32f4) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Tiles/Tiles/Floor/dungeon_floor_3.asset using Guid(26e98a0b4f62b314896ddac41dcc32f4) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '6e924e3ba9b63a2a62e888a2e113d4d2') in 0.010234 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000311 seconds.
+  path: Assets/Tiles/Palettes/DungeonWalls.prefab
+  artifactKey: Guid(5efde0b7e740db341b1f04de4151d49b) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Tiles/Palettes/DungeonWalls.prefab using Guid(5efde0b7e740db341b1f04de4151d49b) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '734d98929ed07c99bb5711ac370536b4') in 0.022513 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000311 seconds.
+  path: Assets/Tiles/Tiles/Floor/dungeon_floor_4.asset
+  artifactKey: Guid(45ad9bcb9dbd5eb498f5d2f7e189dd3c) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Tiles/Tiles/Floor/dungeon_floor_4.asset using Guid(45ad9bcb9dbd5eb498f5d2f7e189dd3c) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '644261c02c0462ae69742c856d88c482') in 0.010347 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000292 seconds.
+  path: Assets/Tiles/Tiles/Objects/dungeon_door_right_up.asset
+  artifactKey: Guid(810b9e130334b1141a419966daa0e258) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Tiles/Tiles/Objects/dungeon_door_right_up.asset using Guid(810b9e130334b1141a419966daa0e258) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'e69801c09ffd09be4cbf2621090c3b2c') in 0.009429 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000215 seconds.
+  path: Assets/Tiles/Palettes/DungeonFloor.prefab
+  artifactKey: Guid(5528beece11039e42ae520c68a60136b) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Tiles/Palettes/DungeonFloor.prefab using Guid(5528beece11039e42ae520c68a60136b) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '8191b4b6b064009d26366014a8d313f0') in 0.014268 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000321 seconds.
+  path: Assets/Tiles/Tiles/Wall/wall_side_Right.asset
+  artifactKey: Guid(56a025a4f1e8ec14ebfa0c2300d95b8e) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Tiles/Tiles/Wall/wall_side_Right.asset using Guid(56a025a4f1e8ec14ebfa0c2300d95b8e) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'ed89cc79df1d46c7d9d0ea89abffb45d') in 0.010275 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000313 seconds.
+  path: Assets/Tiles/Tiles/Objects/dungeon_door_left_down.asset
+  artifactKey: Guid(c24786ac2c961394a90d6de2679a6a5f) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Tiles/Tiles/Objects/dungeon_door_left_down.asset using Guid(c24786ac2c961394a90d6de2679a6a5f) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'fcf53129426c2bc79160384b95342536') in 0.010557 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000313 seconds.
+  path: Assets/Tiles/Tiles/Floor/dungeon_floor_7.asset
+  artifactKey: Guid(d17f129a632a13542b731a037c88747b) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Tiles/Tiles/Floor/dungeon_floor_7.asset using Guid(d17f129a632a13542b731a037c88747b) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '4c35755de4a461b8eb72eeca5ea467e0') in 0.009337 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000285 seconds.
+  path: Assets/_Scripts/RoomNodeGraph.cs
+  artifactKey: Guid(73e10acde6a5cd345aff5a50268777d2) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/_Scripts/RoomNodeGraph.cs using Guid(73e10acde6a5cd345aff5a50268777d2) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'f9438fa1305042c71637524ffaabaa83') in 0.010600 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000320 seconds.
+  path: Assets/Tiles/Tiles/Floor/dungeon_floor_8.asset
+  artifactKey: Guid(bd90f11f0fc14c2438442d960991a0ab) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Tiles/Tiles/Floor/dungeon_floor_8.asset using Guid(bd90f11f0fc14c2438442d960991a0ab) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '5c1bce785b4b9bdc12cf2d80421da361') in 0.010295 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000317 seconds.
+  path: Assets/Tiles/Tiles/Wall/wall_bottom_1.asset
+  artifactKey: Guid(17de16fed6ed8cc4fa8aed5e072ee432) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Tiles/Tiles/Wall/wall_bottom_1.asset using Guid(17de16fed6ed8cc4fa8aed5e072ee432) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'a023936c00397a26b54cf8377f50a23d') in 0.010425 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000294 seconds.
+  path: Assets/_Scripts/SimpleRandomWalkDungeonGenerator.cs
+  artifactKey: Guid(854c78aeec66d0b488373c648dc26b85) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/_Scripts/SimpleRandomWalkDungeonGenerator.cs using Guid(854c78aeec66d0b488373c648dc26b85) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '3d8bd32f3463372531b4138fe4898b8f') in 0.010452 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000318 seconds.
+  path: Assets/Tiles/Tiles/Corner/dungeon_corner_3.asset
+  artifactKey: Guid(72fd0ad8078223449838059e0a256e13) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Tiles/Tiles/Corner/dungeon_corner_3.asset using Guid(72fd0ad8078223449838059e0a256e13) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '7187dc989e346e1fa603a9c17040b7dd') in 0.009494 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000306 seconds.
+  path: Assets/Tiles/Tiles/Wall/wall_inner_corner_bottom_right.asset
+  artifactKey: Guid(32fb4d0075b44bf43b045b03663afc2c) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Tiles/Tiles/Wall/wall_inner_corner_bottom_right.asset using Guid(32fb4d0075b44bf43b045b03663afc2c) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '7fe8b55f54d73fa45de48ec95da71694') in 0.010462 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000394 seconds.
+  path: Assets/Tiles/Tiles/Corner/dungeon_corner_1.asset
+  artifactKey: Guid(e7fdc609c17f78d4f93b3e8d942fd6fb) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Tiles/Tiles/Corner/dungeon_corner_1.asset using Guid(e7fdc609c17f78d4f93b3e8d942fd6fb) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '0351f253ea428c76935e93f6b4149f5e') in 0.010434 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000277 seconds.
+  path: Assets/Tiles/Tiles/Floor/dungeon_floor_12.asset
+  artifactKey: Guid(ce30972c078f53040bf5418967700afd) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Tiles/Tiles/Floor/dungeon_floor_12.asset using Guid(ce30972c078f53040bf5418967700afd) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'ca8be426319d295a4f1a42c553abac31') in 0.009368 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000294 seconds.
+  path: Assets/Tiles/Tiles/Wall/wall_full.asset
+  artifactKey: Guid(9bd9b91a7e97483419306d5b0c9c37ec) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Tiles/Tiles/Wall/wall_full.asset using Guid(9bd9b91a7e97483419306d5b0c9c37ec) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '7a2857b00af4225ed45cdb9e0c64d56c') in 0.010206 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000298 seconds.
+  path: Assets/Tiles/Tiles/Objects/dungeon_door_up_right.asset
+  artifactKey: Guid(7abf5f2e480bd7e4c84271f6b369ea8b) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Tiles/Tiles/Objects/dungeon_door_up_right.asset using Guid(7abf5f2e480bd7e4c84271f6b369ea8b) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '71be8cc2f60dadd7853e3543d5a5cac7') in 0.010754 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000219 seconds.
+  path: Assets/Tiles/Palettes/DungeonDecorations.prefab
+  artifactKey: Guid(27ec2e483d3276f47a6a997a9a939be4) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Tiles/Palettes/DungeonDecorations.prefab using Guid(27ec2e483d3276f47a6a997a9a939be4) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'ad381bfd8a7a626bc08c1b17b8b7e373') in 0.010510 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000287 seconds.
+  path: Assets/_Scripts/RoomNode.cs
+  artifactKey: Guid(559e2e1fabd44704e9ffd709e0d97115) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/_Scripts/RoomNode.cs using Guid(559e2e1fabd44704e9ffd709e0d97115) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'bbed6c93c077473d04353ead5056ca8d') in 0.009411 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000289 seconds.
+  path: Assets/Tiles/Tiles/Wall/wall_top_1.asset
+  artifactKey: Guid(22c9f328675568942a63b2770a6a63dc) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Tiles/Tiles/Wall/wall_top_1.asset using Guid(22c9f328675568942a63b2770a6a63dc) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'c9fd06650368325ece76bf779c0c7924') in 0.009284 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Assets/Tiles/Tiles/Corner/dungeon_corner_4.asset
+  artifactKey: Guid(0f4428b6c75ffb644be1156db0f492f8) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Tiles/Tiles/Corner/dungeon_corner_4.asset using Guid(0f4428b6c75ffb644be1156db0f492f8) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '562b7f526536c8f19b805ffc5f7a35f4') in 0.010080 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000295 seconds.
+  path: Assets/Tiles/Tiles/Wall/wall_top_3.asset
+  artifactKey: Guid(d1c4d488ca9815c4285b3c17e0f52aa9) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Tiles/Tiles/Wall/wall_top_3.asset using Guid(d1c4d488ca9815c4285b3c17e0f52aa9) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '2410f5295177968827a603155b1b0555') in 0.009962 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000299 seconds.
+  path: Assets/Tiles/Tiles/Objects/dungeon_door_left_up.asset
+  artifactKey: Guid(81dd7e1ab3a38f242800017b62fbe1a0) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Tiles/Tiles/Objects/dungeon_door_left_up.asset using Guid(81dd7e1ab3a38f242800017b62fbe1a0) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'fcd8cab96d78950ce0a9ae1a962ea63b') in 0.009410 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000269 seconds.
+  path: Assets/Tiles/Tiles/Objects/dungeon_door_right_down.asset
+  artifactKey: Guid(2428b76e83e6b5d4aa8be3c3fb6a8773) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Tiles/Tiles/Objects/dungeon_door_right_down.asset using Guid(2428b76e83e6b5d4aa8be3c3fb6a8773) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '553b691697acb104df6fb58e4d3d133e') in 0.011303 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000278 seconds.
+  path: Assets/Tiles/Tiles/Objects/dungeon_door_down_left.asset
+  artifactKey: Guid(22725e0eaed5a87488a90322ce6b9e17) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Tiles/Tiles/Objects/dungeon_door_down_left.asset using Guid(22725e0eaed5a87488a90322ce6b9e17) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'c91197f5183c426d382d9c4dbd8f1442') in 0.010603 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000299 seconds.
+  path: Assets/Tiles/Tiles/Corner/dungeon_corner_5.asset
+  artifactKey: Guid(a18e44aa7b8a03d4785e9a635a0ae3a8) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Tiles/Tiles/Corner/dungeon_corner_5.asset using Guid(a18e44aa7b8a03d4785e9a635a0ae3a8) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '7ba103814c5f3c7b59c49d4fd1651516') in 0.010067 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/_Scripts/Coridor.cs
+  artifactKey: Guid(628d544aad007694a8235c025f088f59) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/_Scripts/Coridor.cs using Guid(628d544aad007694a8235c025f088f59) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'e61bd84a2d201f1c585297cef63f4439') in 0.009696 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000242 seconds.
+  path: Assets/_Scripts/Data/SimpleRandomWalkParameters_Room.asset
+  artifactKey: Guid(50a89cef6babcbe4ea5f31bd80d2bb6d) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/_Scripts/Data/SimpleRandomWalkParameters_Room.asset using Guid(50a89cef6babcbe4ea5f31bd80d2bb6d) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '4d22b651322137de07649cefb40e6b0c') in 0.010722 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000306 seconds.
+  path: Assets/_Scripts/CoridorFirstDungeonGenerator.cs
+  artifactKey: Guid(52eaa591ed6b5af47a7026e5b18d3af7) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/_Scripts/CoridorFirstDungeonGenerator.cs using Guid(52eaa591ed6b5af47a7026e5b18d3af7) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '66383da1391ec6df31faf9dccaa59aeb') in 0.010961 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000292 seconds.
+  path: Assets/_Scripts/Data/SimpleRandomWalkParameters_Island.asset
+  artifactKey: Guid(b3331b0f192bdf440b0fe7075cc4b1c9) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/_Scripts/Data/SimpleRandomWalkParameters_Island.asset using Guid(b3331b0f192bdf440b0fe7075cc4b1c9) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '658f0016b17e21356ff9d0549fe006b0') in 0.010553 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000305 seconds.
+  path: Assets/Tiles/Tiles/Corner/dungeon_corner_2.asset
+  artifactKey: Guid(0a9f54766a326954c8ba00b22bf91121) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Tiles/Tiles/Corner/dungeon_corner_2.asset using Guid(0a9f54766a326954c8ba00b22bf91121) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'a729882e39919dbb70416be165e8d8c5') in 0.009864 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000302 seconds.
+  path: Assets/Tiles/Tiles/Wall/wall_inner_corner_bottom_left.asset
+  artifactKey: Guid(a4a8fd2caea494c45916e75fc21be5c2) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Tiles/Tiles/Wall/wall_inner_corner_bottom_left.asset using Guid(a4a8fd2caea494c45916e75fc21be5c2) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '992b3a9ca1c7de8fc24c94d82d66ea10') in 0.010671 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000299 seconds.
+  path: Assets/_Sprites/Dungeon/character and tileset/Licence.txt
+  artifactKey: Guid(a7ba7abe3e449f040ae936c939b869ab) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/_Sprites/Dungeon/character and tileset/Licence.txt using Guid(a7ba7abe3e449f040ae936c939b869ab) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'ff50149fb8b8aab79e0d1cb7967ef767') in 0.040035 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000287 seconds.
+  path: Assets/Tiles/Tiles/Wall/wall_diagonal_corner_up_left.asset
+  artifactKey: Guid(990709a76d4f9124db8ca4026e79a932) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Tiles/Tiles/Wall/wall_diagonal_corner_up_left.asset using Guid(990709a76d4f9124db8ca4026e79a932) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '6e372163fa94ea7858b09f6ac22adf04') in 0.010173 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000289 seconds.
+  path: Assets/Tiles/Tiles/Floor/dungeon_floor_6.asset
+  artifactKey: Guid(46a4fa52fde124a47aefa0f6808fcab9) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Tiles/Tiles/Floor/dungeon_floor_6.asset using Guid(46a4fa52fde124a47aefa0f6808fcab9) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'b28d1e33b004bafccbccc1fb52966991') in 0.009212 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Assets/Tiles/Tiles/Wall/wall_top_2.asset
+  artifactKey: Guid(4ca55881ba0901544934d33a5252ef98) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Tiles/Tiles/Wall/wall_top_2.asset using Guid(4ca55881ba0901544934d33a5252ef98) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '72a5065356684e7062762921a7230d4b') in 0.009859 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000259 seconds.
+  path: Assets/Tiles/Tiles/Wall/wall_diagonal_corner_down_right.asset
+  artifactKey: Guid(ece443381d8fc294f928c22650a87c24) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Tiles/Tiles/Wall/wall_diagonal_corner_down_right.asset using Guid(ece443381d8fc294f928c22650a87c24) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'e6f0235dfca3bcaa3468962a40fe02a3') in 0.010826 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000266 seconds.
+  path: Assets/Tiles/Tiles/Floor/dungeon_floor_1.asset
+  artifactKey: Guid(471853985ed4b5242ad12af71ace0cf6) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Tiles/Tiles/Floor/dungeon_floor_1.asset using Guid(471853985ed4b5242ad12af71ace0cf6) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '9417dca3e42f292453d0e6c8cdcc472a') in 0.009469 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000286 seconds.
+  path: Assets/Tiles/Tiles/Wall/wall_bottom_2.asset
+  artifactKey: Guid(52baa3819ccd01649ac11fce15b449a1) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Tiles/Tiles/Wall/wall_bottom_2.asset using Guid(52baa3819ccd01649ac11fce15b449a1) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '789cb34dc86a9455bfb6d5132d39f444') in 0.010038 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000318 seconds.
+  path: Assets/_Scripts/Data/SimpleRandomWalkParameters_BigDungeon 1.asset
+  artifactKey: Guid(51dc855c398b17a4eab7183f442b5af9) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/_Scripts/Data/SimpleRandomWalkParameters_BigDungeon 1.asset using Guid(51dc855c398b17a4eab7183f442b5af9) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'b5106cd1ba81c14fa1fe630c43cc2993') in 0.010572 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000289 seconds.
+  path: Assets/_Scripts/Data/SimpleRandomWalkSO.cs
+  artifactKey: Guid(48e01c9571b86304995210bf5d782d3d) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/_Scripts/Data/SimpleRandomWalkSO.cs using Guid(48e01c9571b86304995210bf5d782d3d) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '0447072e2b6265414be5f2f6617d769f') in 0.010618 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000299 seconds.
+  path: Assets/Tiles/Tiles/Wall/wall_side_Left.asset
+  artifactKey: Guid(0f895bfef3ebb4f4aacf3fac66196c1c) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Tiles/Tiles/Wall/wall_side_Left.asset using Guid(0f895bfef3ebb4f4aacf3fac66196c1c) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'ae9fd59128335033d1a69a056cf58770') in 0.009502 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000269 seconds.
+  path: Assets/_Scripts/RoomFirstDungeonGenerator.cs
+  artifactKey: Guid(584933dfbbd464e489a27a1707b60f37) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/_Scripts/RoomFirstDungeonGenerator.cs using Guid(584933dfbbd464e489a27a1707b60f37) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '799aed081f6b412e5ef490b9ae37900e') in 0.009555 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000273 seconds.
+  path: Assets/_Sprites/Dungeon/character and tileset/Dungeon_Tileset.png
+  artifactKey: Guid(a0d3fbbc155eb404a87f827b40a48dfe) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/_Sprites/Dungeon/character and tileset/Dungeon_Tileset.png using Guid(a0d3fbbc155eb404a87f827b40a48dfe) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '9dfd1f7800803e1074e7019419d3fa92') in 0.125914 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000225 seconds.
+  path: Assets/Tiles/Tiles/Floor/dungeon_floor_11.asset
+  artifactKey: Guid(269175f2c6f649547b916eace0853f8f) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Tiles/Tiles/Floor/dungeon_floor_11.asset using Guid(269175f2c6f649547b916eace0853f8f) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'f06adea6ad32dbbbd2fe9e1b11976344') in 0.011059 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000295 seconds.
+  path: Assets/Editor/RandomDugeonGeneratorEditor.cs
+  artifactKey: Guid(bf5949ed8748e5c4ebaaa488a2a24ebd) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Editor/RandomDugeonGeneratorEditor.cs using Guid(bf5949ed8748e5c4ebaaa488a2a24ebd) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '1e320dc966cfc379bc3d3a132fd1a924') in 0.009704 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000279 seconds.
+  path: Assets/Tiles/Tiles/Wall/wall_diagonal_corner_up_right.asset
+  artifactKey: Guid(809171e13e7908f40a916074c244f08c) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Tiles/Tiles/Wall/wall_diagonal_corner_up_right.asset using Guid(809171e13e7908f40a916074c244f08c) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '4b4dd4ea41949caa4f5aea076b4afb0f') in 0.010309 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000293 seconds.
+  path: Assets/Tiles/Tiles/Floor/dungeon_floor_5.asset
+  artifactKey: Guid(2efe3bcf4f16d0f4fa446dc82e2fb340) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Tiles/Tiles/Floor/dungeon_floor_5.asset using Guid(2efe3bcf4f16d0f4fa446dc82e2fb340) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '42e14249dc6df39f8f5d40c3d8bbde49') in 0.009457 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000283 seconds.
+  path: Assets/_Scripts/TilemapVisualizer.cs
+  artifactKey: Guid(e0fae74fa7c10dc48a199245d46b8c41) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/_Scripts/TilemapVisualizer.cs using Guid(e0fae74fa7c10dc48a199245d46b8c41) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'f8a23c8b2734c5f3931591518b79a2bf') in 0.010108 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000285 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Scenes/SampleScene.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'aae2d1c22514d2acfbe4a2c09f013895') in 0.009687 seconds 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
